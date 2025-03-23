@@ -19,3 +19,4 @@ change 7 o
 change 8 o
 get o 4 12
 get darth 1 12
+get nab 1 7
