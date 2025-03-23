@@ -8,3 +8,4 @@ change 5 a
 change 6 b
 change 7 o
 change 8 o
+get o 4 12
